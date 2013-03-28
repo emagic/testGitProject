@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		697B71121703C242009E2358 /* AYTestCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 697B71111703C242009E2358 /* AYTestCell.m */; };
 		69B0CF021703B40F0005E648 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B0CF011703B40F0005E648 /* UIKit.framework */; };
 		69B0CF041703B40F0005E648 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B0CF031703B40F0005E648 /* Foundation.framework */; };
 		69B0CF061703B40F0005E648 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B0CF051703B40F0005E648 /* CoreGraphics.framework */; };
@@ -38,8 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		697B71101703C242009E2358 /* AYTestCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AYTestCell.h; sourceTree = "<group>"; };
-		697B71111703C242009E2358 /* AYTestCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AYTestCell.m; sourceTree = "<group>"; };
 		69B0CEFE1703B40F0005E648 /* TestGitProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestGitProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69B0CF011703B40F0005E648 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		69B0CF031703B40F0005E648 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -128,8 +125,6 @@
 				69B0CF1C1703B40F0005E648 /* MainStoryboard_iPad.storyboard */,
 				69B0CF1F1703B40F0005E648 /* AYViewController.h */,
 				69B0CF201703B40F0005E648 /* AYViewController.m */,
-				697B71101703C242009E2358 /* AYTestCell.h */,
-				697B71111703C242009E2358 /* AYTestCell.m */,
 				69B0CF081703B40F0005E648 /* Supporting Files */,
 			);
 			path = TestGitProject;
@@ -283,7 +278,6 @@
 				69B0CF0E1703B40F0005E648 /* main.m in Sources */,
 				69B0CF121703B40F0005E648 /* AYAppDelegate.m in Sources */,
 				69B0CF211703B40F0005E648 /* AYViewController.m in Sources */,
-				697B71121703C242009E2358 /* AYTestCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
