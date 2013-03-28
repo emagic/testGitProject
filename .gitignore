@@ -3,6 +3,10 @@ bin/
 bin-debug/
 bin-release/
 
+#workspace file
+testGitProject.xcodeproj/project.xcworkspace/xcuserdata/jinpeili.xcuserdatad/
+.gitignore
+
 # Other files and folders
 .settings/
 
